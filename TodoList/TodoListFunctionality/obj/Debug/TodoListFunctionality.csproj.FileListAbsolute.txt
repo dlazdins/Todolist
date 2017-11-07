@@ -1,0 +1,12 @@
+C:/Users/reinis.vesers/source/repos/TodoList/TodoListFunctionality/bin/Debug/TodoListFunctionality.dll
+C:/Users/reinis.vesers/source/repos/TodoList/TodoListFunctionality/bin/Debug/TodoListFunctionality.pdb
+C:/Users/reinis.vesers/source/repos/TodoList/TodoListFunctionality/obj/Debug/TodoListFunctionality.csprojResolveAssemblyReference.cache
+C:/Users/reinis.vesers/source/repos/TodoList/TodoListFunctionality/obj/Debug/TodoListFunctionality.csproj.CoreCompileInputs.cache
+C:/Users/reinis.vesers/source/repos/TodoList/TodoListFunctionality/obj/Debug/TodoListFunctionality.dll
+C:/Users/reinis.vesers/source/repos/TodoList/TodoListFunctionality/obj/Debug/TodoListFunctionality.pdb
+/Users/DAVIS/Desktop/Todolist/TodoList/TodoListFunctionality/bin/Debug/TodoListFunctionality.dll
+/Users/DAVIS/Desktop/Todolist/TodoList/TodoListFunctionality/bin/Debug/TodoListFunctionality.pdb
+/Users/DAVIS/Desktop/Todolist/TodoList/TodoListFunctionality/obj/Debug/TodoListFunctionality.csprojResolveAssemblyReference.cache
+/Users/DAVIS/Desktop/Todolist/TodoList/TodoListFunctionality/obj/Debug/TodoListFunctionality.csproj.CoreCompileInputs.cache
+/Users/DAVIS/Desktop/Todolist/TodoList/TodoListFunctionality/obj/Debug/TodoListFunctionality.dll
+/Users/DAVIS/Desktop/Todolist/TodoList/TodoListFunctionality/obj/Debug/TodoListFunctionality.pdb
